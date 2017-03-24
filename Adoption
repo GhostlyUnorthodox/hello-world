@@ -1,0 +1,49 @@
+<DOCtype html>
+<html>
+
+<head><title>Fluffy Buddies</title>
+      <style>
+      body {background-color: #87CEEB;}
+      h1 {color: #DC143C}
+      p1 {color: #000000}
+      table, th, td {
+      border: 1px
+      border-collapse: collapse;
+}
+      </style>
+      </head>
+
+
+<body>
+<h1>Animal Adoption list</h1>
+<p1>
+<pre><b>WELCOME!!!!</b>
+To the list of fluffy companions avalaible for adoption. We implore you to take your time on here and look around. 
+Any more information you need can be found by calling out phone number at the bottom of each fluffy animal. Please don't let 
+this be the only time. Come into to the shelter to meet these adorable animals! And hopefully, take one home with you!</pre>
+
+<table>
+  <tr>
+    <th>Puppy picture</th>
+    <th>Puppy Information</th>
+    <th>Health Concerns</th>
+  </tr>
+  <tr>
+    <td><img src:"1dog.jpg" alt="Jericho And Monticello" style="width:100px;height:100px;"></td>
+    <td>Jericho and Monticello</td>
+    <td>Nothing</td>
+  </tr>
+  <tr>
+    <td><img src:"2dog.jpg" alt="Rufus" style="width:100px;height:100px;"></td>
+    <td>Rufus is a kind hearted loving dog that will always love you, even though he does have  a gassy problem</td>
+    <td>Little gassy after italian</td>
+  </tr>
+</table>
+  
+  
+  
+  
+  
+  </body>
+  </html>
+  
