@@ -1,1 +1,124 @@
-<!DOCtype html><html> <head>  <style>        body {        background-color: white;              color: black;             }                     table,td {        border: 5px solid black;        border-collapse: collapse;        background-color: OliveDrab;        color:black        }        th {        border: 5px solid black;        border-collapse: collapse;        color:blue}          </style> </head> <body>   <h1>Norfolk Animal Care and Adoption Center</h1>   <p>This is a prototype of a embedible adoption for pages everywhere. There are a couple of reasons I am builing this:   <br />   1. Get more web traffic to attract the idea of sharing this page and it's contents more   <br />   2. For those that are not as mobile as others (disabled, older, farther away)   <br />   3. Learn how to code.   <br />   4.   </p>      <table style="width:100%">    <tr>     <th>Dog Pics/Name</th>        <th>Sex/Spayed/Nueterd</th>        <th>Sheltered Date</th>        <th>Color</th>        <th>Breed</th> </tr>    <tr>     <td><img src="http://thekindlife.com/wp-content/uploads/2014/02/dog-face-closeup-and-white_133429.jpg" alt=Germ; style="width:330px; hieght:330px;"> Francis</td>        <td>Male/Francis <b><ins>is</ins></b> Nuetered</td>        <td>02/12/2016</td>        <td>Grey and White</td>        <td>Pit Bull</td>    </tr>    <tr>     <td><img src="http://cdn1-www.dogtime.com/assets/uploads/gallery/rat-terrier-dog-breed-pictures/puppy-9.jpg">Junior</td>        <td></td>        <td></td>        <td></td>        <td></td>                                </table><p>If you would like to get a adoption application, please click the picture of the animal or hit the link below.</p>    </body></html><!--Adoption Table-Note 1. When redecorating the N,S,B in the adoption table, try seperating it by using different borders to keep it looking clumped.Adoption Table-Note 2. Use symbols with a very obvious legend at the top to save time and make it easeier to understand.Volunteer Note 1. A short life in the volunteer at NACCExtra Note 1. Have a go fund me accountExtra Note 2. Have a list of things that we need for donations--><!--Tags<br /><td></td><td></td><td></td><td></td><td></td>        --lpl;'[op[iopiop>dsdfdfdfd
+<!DOCtype html>
+<html>
+	<head>
+		<style>
+        body {
+        background-color: white;
+              color: black;
+             }
+             
+        table,td {
+        text-align: center;
+        border: 5px solid black;
+        border-collapse: collapse;
+        background-color: OliveDrab;
+        color:black
+        }
+        th {
+        text-align: center;
+        border: 5px solid black;
+        border-collapse: collapse;
+        color:blue}
+        
+		</style>
+	</head>
+	<body>
+   <h1>Norfolk Animal Care and Adoption Center</h1>
+   <p>This is a prototype of a embedible adoption for pages everywhere. There are a couple of reasons I am builing this:
+   <br />
+   1. Get more web traffic to attract the idea of sharing this page and it's contents more
+   <br />
+   2. For those that are not as mobile as others (disabled, older, farther away)
+   <br />
+   3. Learn how to code.
+   <br />
+   4.
+   </p>
+   
+
+<img src="http://www.norfolk.gov/images/InfoAdvanced/197/new_building_front.jpg" alt="The shelter" style="width:100%; hieght:500px;">
+<p>Welcome to our virtual shelter. Here you can find out information on:
+<ul>
+<li>Calendar of events/Hours of operation</li>
+<li>List of Adoptable animals</li>
+<li>What do we need for donations?</li>
+<li>What the qualifications are for volunteers</li>
+<li>Lost Pets</li>
+<li>Upload a lost pet alert</li>
+<li>Contact information for shelter employees and Animal cops</li>
+</ul>
+
+
+
+
+
+
+<table style="width:100%">
+   	<caption style="color:green"><b>Dogs</b></caption>
+        <tr>
+    	<th>Dog Pics/Name</th>
+        <th>Sex/Spayed/Nueterd</th>
+        <th>Sheltered Date</th>
+        <th>Color</th>
+        <th>Breed</th>
+	</tr>
+    <tr>
+    	<td><img src="http://thekindlife.com/wp-content/uploads/2014/02/dog-face-closeup-and-white_133429.jpg" alt=Francis; style="width:330px; hieght:330px;"> Francis</td>
+        <td>Male/Francis <b><ins>is</ins></b> Nuetered</td>
+        <td>02/12/2016</td>
+        <td>Grey and White</td>
+        <td>Pit Bull</td>
+    </tr>
+    <tr>
+    	<td><img src="http://cdn1-www.dogtime.com/assets/uploads/gallery/rat-terrier-dog-breed-pictures/puppy-9.jpg" alt=Junior; style="width:330px; height:330px;">Junior</td>
+        <td>Female/Junior <b><ins>is not</ins></b> Spayed</td>
+        <td>04/2/2016</td>
+        <td>Brown and white</td>
+        <td>Rat Terrier</td>
+    </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
+
+
+
+<!--
+List note 1. Make them links to jump to otherpages or further down the page. 
+
+Adoption Table-Note 1. When redecorating the N,S,B in the adoption table, try seperating it by using different borders to keep it looking clumped.
+Adoption Table-Note 2. Use symbols with a very obvious legend at the top to save time and make it easeier to understand.
+
+Volunteer Note 1. A short life in the volunteer at NACC
+
+
+Extra Note 1. Have a go fund me account
+Extra Note 2. Have a list of things that we need for donations
+Extra Note 3. Have a countdown clock above hours when shelter is open to the public
+-->
+
+
+<!--Tags
+<br />
+
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+        
+
+
+
+-->
